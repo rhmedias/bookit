@@ -20,22 +20,22 @@ class Footer extends Component {
 										<h5 className="title">About</h5>
 										<ul>
 											<li className="list-unstyled">
-												<a href="#!">About Bookit</a>
+												<a href="www.google.com">About Bookit</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">Carrers</a>
+												<a href="www.google.com">Carrers</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">Contact Us</a>
+												<a href="www.google.com">Contact Us</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">Terms of Service</a>
+												<a href="www.google.com">Terms of Service</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">Privacy Policy</a>
+												<a href="www.google.com">Privacy Policy</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">Press</a>
+												<a href="www.google.com">Press</a>
 											</li>
 										</ul>
 									</MDBCol>
@@ -43,13 +43,13 @@ class Footer extends Component {
 										<h5 className="title">Discover</h5>
 										<ul>
 											<li className="list-unstyled">
-												<a href="#!">Blog</a>
+												<a href="www.google.com">Blog</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">Meet the Teams</a>
+												<a href="www.google.com">Meet the Teams</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">How it works</a>
+												<a href="www.google.com">How it works</a>
 											</li>
 										</ul>
 									</MDBCol>
@@ -57,13 +57,13 @@ class Footer extends Component {
 										<h5 className="title">Transport</h5>
 										<ul>
 											<li className="list-unstyled">
-												<a href="#!">Register with Us</a>
+												<a href="www.google.com">Register with Us</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">Business Support</a>
+												<a href="www.google.com">Business Support</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">Advertise on Bookit</a>
+												<a href="www.google.com">Advertise on Bookit</a>
 											</li>
 										</ul>
 									</MDBCol>
@@ -71,31 +71,31 @@ class Footer extends Component {
 										<h5 className="title">From Our Blog</h5>
 										<ul>
 											<li className="list-unstyled">
-												<a href="#!">My experience with...</a>
+												<a href="www.google.com">My experience with...</a>
 											</li>
 											<li className="list-unstyled">
-												<a href="#!">How i travelled...</a>
+												<a href="www.google.com">How i travelled...</a>
 											</li>
 											<li className="list-unstyled3">
-												<a href="#!">My experience with...</a>
+												<a href="www.google.com">My experience with...</a>
 											</li>
 										</ul>
 										<h5 className="title">Connect With Us</h5>
 										<div className="row">
 											<div class="column">
-												<a href="#"><img src={facebook} alt="fb" /></a>
+												<a href="www.google.com"><img src={facebook} alt="fb" /></a>
 											</div>
 											<div class="column">
-												<a href="#"><img src={twitter} alt="twitter" /></a>
+												<a href="www.google.com"><img src={twitter} alt="twitter" /></a>
 											</div>
 											<div class="column">
-												<a href="#"><img src={instagram} alt="instagram" /></a>
+												<a href="www.google.com"><img src={instagram} alt="instagram" /></a>
 											</div>
 											<div class="column">
-												<a href="#"><img src={youtube} alt="youtube" /></a>
+												<a href="www.google.com"><img src={youtube} alt="youtube" /></a>
 											</div>
 											<div class="column">
-												<a href="#"><img src={linkedin} alt="linkedin" /></a>
+												<a href="www.google.com"><img src={linkedin} alt="linkedin" /></a>
 											</div>
 										</div>
 									</MDBCol>

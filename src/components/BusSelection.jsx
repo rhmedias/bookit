@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import Footer from './home/Footer';
-import Navbar from './home/Navbar';
 
 class BusSelection extends Component {
 	state = {};
