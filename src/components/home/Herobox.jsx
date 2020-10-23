@@ -1,7 +1,4 @@
 import React, { Component } from 'react';
-import hero1 from '../../assets/images/hero1.jpeg';
-import hero2 from '../../assets/images/hero2.jpeg';
-import hero3 from '../../assets/images/hero3.jpeg';
 import SearchBox from './SearchBox';
 
 class Herobox extends Component {
